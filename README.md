@@ -12,7 +12,7 @@
 
 ### Ghi chú:
 - Trươc khi cài đặt lại máy tính, các bạn phải xem xét các driver của máy, phải sao lưu drive của máy trước khi tiến hành cài đặt.
-- Phần mềm sao lưu driver là Dism++: https://github.com/Chuyu-Team/Dism-Multi-language hoặc: https://drive.google.com/drive/folders/1bC_pRgyoGk80uFmXOe-_qQ6kr9mc0GKT?usp=sharing hoặc 
+- Phần mềm sao lưu driver là Dism++: https://github.com/Chuyu-Team/Dism-Multi-language hoặc: https://drive.google.com/drive/folders/1bC_pRgyoGk80uFmXOe-_qQ6kr9mc0GKT?usp=sharing hoặc https://raw.githubusercontent.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/IMP/Dism%2B%2B10.1.1002.rar
 - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/a8eef597-9094-41f4-986a-2d980c55d715)
 - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/6a4a5411-4708-4040-a95a-1d3d969a5e34)
 - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/d0616fe7-411a-4497-b3a9-107d90544a78)
