@@ -26,7 +26,7 @@
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/4e5bf0f2-9b46-4ca9-95e3-90c96c22fe0d)
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/5e18badf-d7db-480e-a51a-ca3e10c5e77d)
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/2c85dce2-6738-4606-91c4-4ff279d35499)
-  - Chọn đường dẫn đến thư mục driver đã download lúc đầu, rồi bấm next
+  - Chọn đường dẫn đến thư mục driver đã download lúc đầu, rồi bấm next, bấm install là xong!
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/e26284d2-a230-4f08-b338-0054d3156708)
   - ![image](https://github.com/BsNgChiThanh/DriverLaptopXiaomiMiBook12.5/assets/82578024/3e839f57-2b0b-470a-94ae-99be73577f4c)
 
